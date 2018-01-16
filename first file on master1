@@ -1,0 +1,6 @@
+
+down vote
+favorite
+I have configured Jenkins on an Ubuntu server, everything was working fine for almost 2 months, Jenkins was building jobs and running test cases. But recently I increased the number of test cases on it. After some time it started to refuse connection when I opened up Jenkins through a web browser.
+first time committe
+IP:8080 is giving an error "connection refused".
