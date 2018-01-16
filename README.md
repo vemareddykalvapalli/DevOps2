@@ -18,3 +18,4 @@ now you acn enter the sudo - i
 rehthh
 hfdhfhfh
 gdsgdgfg
+Not able to connect to aws-ec2 instance from jenkins hosted on predixNot able to connect to aws-ec2 instance from jenkins hosted on predixNot able to connect to aws-ec2 instance from jenkins hosted on predixNot able to connect to aws-ec2 instance from jenkins hosted on predixNot able to connect to aws-ec2 instance from jenkins hosted on predixNot able to connect to aws-ec2 instance from jenkins hosted on predixNot able to connect to aws-ec2 instance from jenkins hosted on predixNot able to connect to aws-ec2 instance from jenkins hosted on predixNot able to connect to aws-ec2 instance from jenkins hosted on predix
