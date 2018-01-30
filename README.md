@@ -3,8 +3,6 @@
 sample jenkins projects
 this is test
 sample projects
-ubuntu
-remote
 automated build is not working on jenkins need to configure agauin with new project item to automate build with new repository checkins
 accurately
 hostname git.example.com
@@ -110,4 +108,5 @@ There are also introductory tutorials geared to developers who want to orchestra
 
 If you’ve never used Jenkins before or have limited Jenkins experience, then the Guided Tour and introductory tutorials are good places to start.
 
-If you are looking for more detailed information about using Jenkins, please refer to the User Handbook.
+If you are looking for more detailed information about using Jenkins, please refer to the User Handbook.kk
+iuioiipoi
