@@ -1,4 +1,4 @@
-
+git@github.com:vemareddykalvapalli/devops2.gitgit@github.com:vemareddykalvapalli/devops2.gitgit@github.com:vemareddykalvapalli/devops2.gitgit@github.com:vemareddykalvapalli/devops2.gitgit@github.com:vemareddykalvapalli/devops2.gitgit@github.com:vemareddykalvapalli/devops2.gitgit@github.com:vemareddykalvapalli/devops2.gitgit@github.com:vemareddykalvapalli/devops2.gitgit@github.com:vemareddykalvapalli/devops2.gitgit@github.com:vemareddykalvapalli/devops2.git
 sample projects
 automated build is not working on jenkins need to configure agauin with new project item to automate build with new repository checkins
 accurately
