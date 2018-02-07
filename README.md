@@ -1,7 +1,4 @@
 git@github.com:vemareddykalvapalli/devops2.gitgit@github.com:vemareddykalvapalli/devops2.gitgit@github.com:vemareddykalvapalli/devops2.gitgit@github.com:vemareddykalvapalli/devops2.gitgit@github.com:vemareddykalvapalli/devops2.gitgit@github.com:vemareddykalvapalli/devops2.gitgit@github.com:vemareddykalvapalli/devops2.gitgit@github.com:vemareddykalvapalli/devops2.gitgit@github.com:vemareddykalvapalli/devops2.gitgit@github.com:vemareddykalvapalli/devops2.git
-sample projects
-automated build is not working on jenkins need to configure agauin with new project item to automate build with new repository checkins
-accurately
 hostname git.example.com
 open host file and update host name  view /etc/hostname save and close 
 then open host file and copy the ip address of you machine and enter the ip address 
