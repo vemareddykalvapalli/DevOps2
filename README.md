@@ -8,8 +8,6 @@ then open host file and copy the ip address of you machine and enter the ip addr
 and host anme with short  host anme save and close
 now you acn enter the sudo - i
 then insatll thegit-core on aws instance by using
-1.apt-get update 
-2.apt-get install git-core
 3.then check the git on aws using id git
 4.now create a project forlder on git by using mkdir project-1.git
 5. now enter in to that foler by using this command cd project-1.git
