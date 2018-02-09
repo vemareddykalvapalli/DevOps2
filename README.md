@@ -3,7 +3,6 @@ hostname git.example.com
 open host file and update host name  view /etc/hostname save and close 
 then open host file and copy the ip address of you machine and enter the ip address 
 and host anme with short  host anme save and close
-now you acn enter the sudo - i
 then insatll thegit-core on aws instance by using
 3.then check the git on aws using id gitlocal machine.
 8.now create a aws machine  by nameing client machine and enter as a roo user and
