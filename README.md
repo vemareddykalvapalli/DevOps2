@@ -7,11 +7,7 @@ then insatll thegit-core on aws instance by using
 3.then check the git on aws using id gitlocal machine.
 8.now create a aws machine  by nameing client machine and enter as a roo user and
 Jenkins User Documentation 
-If you want to extend the functionality of Jenkins by developing your own Jenkins plugins, please refer to the Extend Jenkins (developer documentation).
-
-Jenkins can be installed through native system packages, Docker, or even run standalone by any machine with a Java Runtime Environment (JRE) installed.
-
-There are also introductory tutorials geared to developers who want to orchestrate and automate building their project in Jenkins using Pipeline and Blue Ocean.
+If you want to extend the functionality of Jenkins by developing your own Jenkins plugins, please refer to the Extend Jenkins (developer documentation).ere are also introductory tutorials geared to developers who want to orchestrate and automate building their project in Jenkins using Pipeline and Blue Ocean.
 If you’ve never used Jenkins before or have limited Jenkins experience, then the Guided Tour and introductory tutorials are good places to start.
 
 If you are looking for more detailed information about using Jenkins, please refer to the User Handbook.Jenkins User Documentation 
