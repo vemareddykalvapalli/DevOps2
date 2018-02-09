@@ -22,8 +22,6 @@ This documentation begins with a Guided Tour to help you get up and running with
 
 There are also introductory tutorials geared to developers who want to orchestrate and automate building their project in Jenkins using Pipeline and Blue Ocean.
 
-If you’ve never used Jenkins before or have limited Jenkins experience, then the Guided Tour and introductory tutorials are good places to start.
-
 If you are looking for more detailed information about using Jenkins, please refer to the User Handbook.Jenkins User Documentation 
 Welcome to the Jenkins user documentation - for people wanting to use Jenkins’s existing functionality and plugin features.
 
