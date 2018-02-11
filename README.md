@@ -25,9 +25,6 @@ If you’ve never used Jenkins before or have limited Jenkins experience, then t
 If you are looking for more detailed information about using Jenkins, please refer to the User Handbook.
 Jenkins User Documentation 
 Welcome to the Jenkins user documentation - for people wanting to use Jenkins’s existing functionality and plugin features.
-
-If you want to extend the functionality of Jenkins by developing your own Jenkins plugins, please refer to the Extend Jenkins (developer documentation).
-
 What is Jenkins?
 Jenkins is a self-contained, open source automation server which can be used to automate all sorts of tasks related to building, testing, and delivering or deploying software.
 
