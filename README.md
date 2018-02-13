@@ -6,6 +6,8 @@ and host anme with short  host anme save and close
 then insatll thegit-core on aws instance by using
 3.then check the git on aws using id gitlocal machine.
 Jenkins User Documentation 
+
+kfghlkfhlk
 If you want to extend the functionality of Jenkins by developing your own Jenkins plugins, please refer to the Extend Jenkins (developer documentation).ere are also introductory tutorials geared to developers who want to orchestrate and automate building their project in Jenkins using Pipeline and Blue Ocean.
 If you’ve never used Jenkins before or have limited Jenkins experience, then the Guided Tour and introductory tutorials are good places to start.
 What is Jenkins?
