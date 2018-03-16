@@ -2,7 +2,11 @@
   fCreate or edit a build definition
 Visual Studio 2013 Other Versions 
 After you have deployed your build system, you are ready to define a build process that compiles your code, runs your tests, and performs many other important functions for your team.
-
+lddeskkklkfksf
+sd
+f
+f
+sdfsjkfjfs
 From Visual Studio, Team Explorer, make sure you are connected to the team project (Keyboard: Ctrl + 0, C), and then open Builds Icon Builds (Keyboard: Ctrl + 0, B).
 
 Choose the New Build Definition link or select a build, open its shortcut menu, and choose Edit Build Definition.
