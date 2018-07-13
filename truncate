@@ -17,3 +17,4 @@ tomcat7-admin: This package installs two web applications that can help managing
 NOTE: For security reasons, using the manager webapp is restricted to users with role "manager-gui". The host-manager webapp is restricted to users with role "admin-gui". Users are defined in /etc/tomcat7/tomcat-users.xml.
 vgjfgjfhtghfcb
 dyjjy
+uiui
