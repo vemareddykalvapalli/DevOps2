@@ -2,8 +2,3 @@ this is my first commoit on this file after cloned to local
 and pushing to remote locatytion
 When working with other people's repositories, there are a few basic Git commands to remember:
 
-git clone
-git fetch
-git merge
-git pull
-These commands are very useful when interacting with a remote repository. clone and fetch download remote code from a repository's remote URL to your local computer, merge is used to merge different people's work together with yours, and pull is a combination of fetch and merge.
